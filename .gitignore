@@ -45,3 +45,8 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+tests/locators/page_locators.ts
+tests/pages/login.page.ts
+tests/benchmarkAlsa.spec.ts
+tsconfig.json
+tests/login.spec.ts
