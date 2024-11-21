@@ -123,7 +123,7 @@
       "line": 0,
       "specs": [
         {
-          "title": "navigate to form page",
+          "title": "parameterized methods",
           "ok": true,
           "tags": [],
           "tests": [
@@ -135,23 +135,23 @@
               "projectName": "dev",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 5,
                   "status": "passed",
-                  "duration": 1395,
+                  "duration": 825,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-11-21T16:38:59.863Z",
+                  "startTime": "2024-11-21T17:48:42.324Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "8615c514838a139a7d89-020e774b470a44e69436",
+          "id": "8615c514838a139a7d89-80e10446553e4261ce27",
           "file": "tests/usePageObjects.spec.ts",
-          "line": 8,
+          "line": 18,
           "column": 5
         }
       ]
@@ -159,8 +159,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-11-21T16:38:58.646Z",
-    "duration": 2672.977000000188,
+    "startTime": "2024-11-21T17:48:40.974Z",
+    "duration": 2244.1359999999404,
     "expected": 1,
     "skipped": 0,
     "unexpected": 0,
