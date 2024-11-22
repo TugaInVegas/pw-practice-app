@@ -135,14 +135,14 @@
               "projectName": "dev",
               "results": [
                 {
-                  "workerIndex": 10,
+                  "workerIndex": 11,
                   "status": "passed",
-                  "duration": 2580,
+                  "duration": 1773,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-11-22T14:07:49.797Z",
+                  "startTime": "2024-11-22T14:16:00.708Z",
                   "attachments": []
                 }
               ],
@@ -151,7 +151,7 @@
           ],
           "id": "8615c514838a139a7d89-80e10446553e4261ce27",
           "file": "tests/usePageObjects.spec.ts",
-          "line": 18,
+          "line": 17,
           "column": 5
         }
       ]
@@ -159,8 +159,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-11-22T14:07:48.088Z",
-    "duration": 4349.318000000203,
+    "startTime": "2024-11-22T14:15:59.269Z",
+    "duration": 3285.6150000002235,
     "expected": 1,
     "skipped": 0,
     "unexpected": 0,

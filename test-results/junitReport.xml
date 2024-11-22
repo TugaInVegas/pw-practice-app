@@ -1,6 +1,6 @@
-<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="4.349318000000203">
-<testsuite name="tests\usePageObjects.spec.ts" timestamp="2024-11-22T14:07:49.332Z" hostname="dev" tests="1" failures="0" skipped="0" time="2.58" errors="0">
-<testcase name="parameterized methods" classname="tests\usePageObjects.spec.ts" time="2.58">
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="3.2856150000002233">
+<testsuite name="tests\usePageObjects.spec.ts" timestamp="2024-11-22T14:16:00.228Z" hostname="dev" tests="1" failures="0" skipped="0" time="1.773" errors="0">
+<testcase name="parameterized methods" classname="tests\usePageObjects.spec.ts" time="1.773">
 </testcase>
 </testsuite>
 </testsuites>
